@@ -32,9 +32,9 @@ If we are to use the [images](./readonly/images) file and search for "Mark" we s
 
 
 ## Libraries Used : 
-1. OpenCV
-2. PyTessaract 
-3. kraken
-4. PIL
+1. OpenCV : For face detection 
+2. PyTessaract : for Optical Character Recognition 
+3. kraken : 
+4. PIL : Python Image Library, for image manipulation using python. OpenCV can deal with PIL image objects and produces a PIL image as output.  
 
 
